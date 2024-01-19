@@ -1,0 +1,143 @@
+body{
+    margin: 8px;
+    background-color: #030327;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.banner{
+    border: double;
+    border-color: darkgoldenrod;
+}
+
+#banner-div{
+    text-align: center;
+    background-color: #030327;
+    background-size: cover;
+}
+
+#header{
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#info-title{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#info{
+    padding-left: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: white;
+}
+
+#info{
+    color: white    ;
+}
+
+#message-title{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#message{
+    padding-left: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+#perks-title{
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#perks{
+    padding-left: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+#store{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+.text-image-pair{
+    display: flex;
+    justify-content: space-around;
+    float: left;
+    padding-right: 10%;
+}
+
+.unicorns{
+    width: 20%;
+    height: 20%;
+    float: right;;
+    border-style: groove;
+    border-color: white;
+    translate: 50px;
+    border-radius: 50px;
+}
+
+.dragons{
+    width: 20%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    translate: 50px;
+    border-radius: 100px;
+}
+
+.plush{
+    width: 25%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    translate: 50px;
+    border-radius: 75px;
+}
+
+.pin1{
+    width: 20%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    background-color: white;
+}
+
+.pin2{
+    width: 20%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    background-color: white;
+}
+
+.shirt1{
+    width: 20%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    background-color: white;
+}
+
+.shirt2{
+    width: 20%;
+    height: 20%;
+    border-style: groove;
+    border-color: white;
+    background-color: white;
+}
